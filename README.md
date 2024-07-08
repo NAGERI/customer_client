@@ -1,6 +1,6 @@
 # Customer Client
 
-This is a client for a server application found at [Client Server]()
+This is a client for a server application found at [Client Server](https://github.com/NAGERI/customer_server.git)
 
 - Clone the project using `git` command below:
 
